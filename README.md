@@ -21,3 +21,10 @@ difficulty
 
 OUTPUT:
 study schedule
+
+CONCLUSION:
+This project shows how AI and ML concepts from the syllabus can solve a real-life student problem. It demonstrates:
+
+Intelligent planning
+Data-driven decision-making
+Practical application of theory
